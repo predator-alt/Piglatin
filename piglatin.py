@@ -1,7 +1,7 @@
 #english to pig latin 
 print("Enter the englidh  message to translate into pig latin:")
 message=input()
-vowels = ("a","e","i","o","u","y")
+vowels = ("a","e","i","o","u")
 pig_latin=[]
 for word in message.split():
 	
