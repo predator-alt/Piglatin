@@ -30,7 +30,7 @@ for word in message.split():
 			word = word[1:]
 		#add the pig latin ending of the word
 		if prefixConstants != " ":
-			word += prefixConstants + "ay"
+			word += prefixConstants + "hello"
 		else:
 			word += "yay"
 		#Set the word back to uppercase or title case
