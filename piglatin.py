@@ -1,5 +1,5 @@
 #english to pig latin 
-print("Enter the englidh  message to translate into pig latin:")
+print("Enter the english  message to translate into pig latin:")
 message=input()
 vowels = ("a","e","i","o","u")
 pig_latin=[]
